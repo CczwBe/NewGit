@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private String fileName = null;
     private String filename = "14428284653c87bcd5af032330742921effadccff8";
     private ProgressBar progressBar;
-    private String str="wawawaw   ssdasfafaffss";
+    private String str="wawawaw     dsdsdsdsdsd ssdasfafaffss";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
